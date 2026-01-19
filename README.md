@@ -1,20 +1,21 @@
 # 👋 Olá, eu sou Daniel Viana
 
-## 🚀 DevOps em formação | Kubernetes | Observabilidade | Infraestrutura
+## 🚀 DevOps / Infraestrutura em formação | Containers | Kubernetes | Observabilidade
 
-Sou profissional de TI em transição e consolidação na área de **DevOps**, com foco em **infraestrutura**, **containers**, **Kubernetes**, **automação** e **observabilidade**. Trabalho com uma abordagem prática, orientada a ambientes de produção, buscando sempre **confiabilidade**, **padronização** e **clareza operacional**.
+Sou profissional de TI em **formação contínua em DevOps e Infraestrutura**, com foco em **automação**, **containers**, **orquestração**, **infraestrutura como código** e **observabilidade**.
 
-Este GitHub representa minha **evolução técnica real**, organizada por projetos práticos e progressivos.
+Meu objetivo é construir ambientes **reproduzíveis, monitoráveis e confiáveis**, seguindo boas práticas próximas de cenários reais de produção.
 
 ---
 
 ## 🧠 Sobre mim
 
 * 🔧 Experiência prática com **Docker**, **Docker Compose** e **Kubernetes**
-* 📊 Implementação de **monitoramento e observabilidade** com **Prometheus** e **Grafana**
-* ⚙️ Criação de ambientes reproduzíveis e versionados
-* 🐧 Forte base em **Linux** e linha de comando
-* 📚 Estudo contínuo em **DevOps** e **SRE**, com foco em cenários reais
+* ⚙️ Criação de pipelines de **CI/CD** com foco em automação e segurança
+* 🏗️ Uso de **Infraestrutura como Código (IaC)** para ambientes reproduzíveis
+* 📊 Implementação de **monitoramento e observabilidade** com Prometheus e Grafana
+* 🔐 Atenção a boas práticas de segurança, padronização e versionamento
+* 📚 Estudo contínuo em **DevOps, SRE e Cloud**
 
 ---
 
@@ -29,37 +30,76 @@ Este GitHub representa minha **evolução técnica real**, organizada por projet
 * Prometheus | Grafana | NGINX
 * Linux | Shell Script
 
-**Automação & Entrega**
+**Automação & DevOps**
 
-* CI/CD (conceitos e prática)
+* CI/CD (GitHub Actions)
 * Infraestrutura como Código (Terraform – fundamentos)
-
-**Versionamento & Desenvolvimento**
-
 * Git | GitHub
-* Java (em aprendizado)
+
+**Desenvolvimento**
+
+* Java (em evolução)
 * SQL | SQLite
 
 ---
 
 ## 📌 Projetos em Destaque
 
-Os principais projetos estão **fixados (pinned)** no perfil e representam uma trilha clara de aprendizado:
+### 🔹 Project 01 — CI/CD
 
-* **Projeto 1 – CI/CD** → Pipeline, automação e boas práticas
-* **Projeto 2 – Docker & Kubernetes** → Deploy e orquestração de aplicações
-* **Projeto 3 – Infraestrutura como Código (Terraform)** → Infra declarativa e reproduzível
-* **Projeto 4 – Monitoramento e Observabilidade** → Prometheus, Grafana e métricas reais
+Pipeline completo de CI/CD com foco em automação, segurança e boas práticas.
 
-Cada projeto possui **README detalhado**, explicando objetivo, arquitetura e aprendizados.
+* Build de aplicação
+* Containerização com Docker
+* Análise de segurança
+* Pipeline automatizado
+
+👉 Repositório: **project-01-ci-cd**
 
 ---
 
-## 📈 O que você encontrará neste GitHub
+### 🔹 Project 02 — Kubernetes
 
-* Projetos práticos focados em **DevOps e Infraestrutura**
-* Evolução progressiva de complexidade técnica
-* Ênfase em **boas práticas**, **observabilidade** e **ambientes próximos de produção**
+Deploy de aplicação containerizada em Kubernetes, simulando ambiente real.
+
+* Deployments e Services
+* Organização de manifests
+* Exposição e acesso à aplicação
+
+👉 Repositório: **project-02-k8s**
+
+---
+
+### 🔹 Project 03 — Infraestrutura como Código (Terraform)
+
+Criação de infraestrutura declarativa e reproduzível.
+
+* Conceitos de IaC
+* Estrutura modular
+* Outputs e variáveis
+
+👉 Repositório: **project-03-terraform**
+
+---
+
+### 🔹 Project 04 — Monitoramento e Observabilidade
+
+Stack completa de observabilidade em Kubernetes.
+
+* Prometheus coletando métricas
+* NGINX + Exporter
+* Grafana com dashboards
+* Métricas reais simulando produção
+
+👉 Repositório: **project-04-observability**
+
+---
+
+## 📈 O que você encontrará aqui
+
+* Projetos práticos com foco em **DevOps e Infraestrutura**
+* Estudo aplicado, sem exemplos genéricos
+* Evolução contínua rumo a ambientes de produção
 
 ---
 
@@ -70,4 +110,4 @@ Cada projeto possui **README detalhado**, explicando objetivo, arquitetura e apr
 
 ---
 
-> "Automatizar, observar e evoluir continuamente é essencial para sistemas confiáveis."
+> "Automatizar, monitorar e evoluir continuamente é essencial para sistemas confiáveis."
