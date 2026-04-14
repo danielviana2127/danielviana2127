@@ -45,54 +45,14 @@ Meu objetivo é construir ambientes **reproduzíveis, monitoráveis e confiávei
 
 ## 📌 Projetos em Destaque
 
-### 🔹 Project 01 — CI/CD
+# Portfólio de Projetos - Daniel Viana
 
-Pipeline completo de CI/CD com foco em automação, segurança e boas práticas.
+Bem-vindo ao meu portfólio! Aqui estão meus principais projetos em DevOps, Cloud e Engenharia de Software:
 
-* Build de aplicação
-* Containerização com Docker
-* Análise de segurança
-* Pipeline automatizado
-
-👉 Repositório: **project-01-ci-cd**
-
----
-
-### 🔹 Project 02 — Kubernetes
-
-Deploy de aplicação containerizada em Kubernetes, simulando ambiente real.
-
-* Deployments e Services
-* Organização de manifests
-* Exposição e acesso à aplicação
-
-👉 Repositório: **project-02-k8s**
-
----
-
-### 🔹 Project 03 — Infraestrutura como Código (Terraform)
-
-Criação de infraestrutura declarativa e reproduzível.
-
-* Conceitos de IaC
-* Estrutura modular
-* Outputs e variáveis
-
-👉 Repositório: **project-03-terraform**
-
----
-
-### 🔹 Project 04 — Monitoramento e Observabilidade
-
-Stack completa de observabilidade em Kubernetes.
-
-* Prometheus coletando métricas
-* NGINX + Exporter
-* Grafana com dashboards
-* Métricas reais simulando produção
-
-👉 Repositório: **project-04-observability**
-
+- [k8s-platform-project](https://github.com/danielviana2127/k8s-platform-project) → Plataforma em Kubernetes com FastAPI e PostgreSQL
+- [project-03-terraform](https://github.com/danielviana2127/project-03-terraform) → Infraestrutura como Código com Terraform
+- [project-04-observability](https://github.com/danielviana2127/project-04-observability) → Observabilidade com Prometheus e Grafana
+- [project-01-ci-cd](https://github.com/danielviana2127/project-01-ci-cd) → Pipeline CI/CD com GitHub Actions
 ---
 
 ## 📈 O que você encontrará aqui
