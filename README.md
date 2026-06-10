@@ -138,7 +138,7 @@ com foco em aprendizado contínuo e evolução técnica.
 https://github.com/danielviana2127
 
 ## LinkedIn
-(Adicionar futuramente)
+https://www.linkedin.com/in/daniel-viana-devops/
 
 ---
 
