@@ -1,147 +1,153 @@
 # 👋 Olá, eu sou Daniel Viana
 
-💻 Estudante e entusiasta de DevOps, Cloud e Infraestrutura  
-🚀 Focado em Kubernetes, Observabilidade, Automação e CI/CD  
-📚 Atualmente estudando DevOps, SRE, Containers e Infraestrutura como Código
+💻 Profissional focado em DevOps, Infraestrutura e Cloud
+
+🚀 Especializando-me em Kubernetes, GitOps, Observabilidade, CI/CD e Infraestrutura como Código.
+
+📍 São Paulo - Brasil
 
 ---
 
-# ⚡ Stack Principal
+## 🚀 Stack Principal
 
-## 🚀 DevOps & Cloud
+### DevOps & Cloud
 
-- Kubernetes
-- Docker
-- Terraform
-- GitHub Actions
-- Linux
-- Observabilidade
-- CI/CD
+* Kubernetes
+* Docker
+* Terraform
+* GitHub Actions
+* Linux
+* ArgoCD
+* GitOps
 
----
+### Observabilidade
 
-## 📊 Monitoramento & Observabilidade
+* Prometheus
+* Grafana
+* Alertmanager
+* Loki
 
-- Prometheus
-- Grafana
-- Alertmanager
-- Loki
+### Linguagens
 
----
-
-## 💻 Linguagens & Backend
-
-- Python
-- SQL
-- Java (em aprendizado)
+* Python
+* SQL
+* Java (em aprendizado)
 
 ---
 
-# 🛠️ Projetos em Destaque
+## 🛠️ Projetos em Destaque
 
-## 🚀 Kubernetes Observability Platform
+### Kubernetes Platform
 
-Plataforma completa de observabilidade utilizando:
+Plataforma Kubernetes local com Ingress NGINX, aplicações containerizadas e monitoramento integrado.
 
-- Kubernetes
-- Prometheus
-- Grafana
-- Alertmanager
-- Loki
-- Kustomize
-
-### Destaques:
-- Coleta de métricas
-- Dashboards Grafana
-- Alertas automatizados
-- Logging centralizado
-- Pipeline observability real
-
-🔗 Repositório:
-https://github.com/danielviana2127/k8s-observability-platform
+🔗 https://github.com/danielviana2127/local-kubernetes-platform
 
 ---
 
-## 🚀 CI/CD Pipeline Kubernetes
+### Kubernetes Observability Platform
 
-Pipeline CI utilizando GitHub Actions com:
+Plataforma completa de observabilidade baseada em Kubernetes.
 
-- Build Docker
-- YAML Validation
-- Organização por ambientes
-- Troubleshooting CI
-- Automação DevOps
+Tecnologias:
 
-🔗 Repositório:
-https://github.com/danielviana2127/devops-cicd
+* Prometheus
+* Grafana
+* Alertmanager
+* Loki
+* Kustomize
 
----
+Recursos:
 
-## 🚀 Terraform Infrastructure
+* Coleta de métricas
+* Dashboards Grafana
+* Logging centralizado
+* Alertas automatizados
 
-Projeto de Infraestrutura como Código utilizando Terraform para provisionamento automatizado.
-
-### Conceitos aplicados:
-- IaC
-- Providers
-- Containers Docker
-- Networks
-- Outputs
-- Variáveis
-
-🔗 Repositório:
-https://github.com/danielviana2127/terraform-kubernetes-infrastructure
+🔗 https://github.com/danielviana2127/k8s-observability-platform
 
 ---
 
-# 📚 Atualmente Estudando
+### DevOps CI/CD Pipeline
 
-- GitOps
-- ArgoCD
-- Kubernetes avançado
-- Observabilidade
-- SRE
-- Automação DevOps
+Pipeline automatizada utilizando GitHub Actions.
 
----
+Recursos:
 
-# 🎯 Objetivo Profissional
+* Validação YAML
+* Build Docker
+* Automação CI/CD
+* Troubleshooting de pipelines
 
-Busco oportunidade para atuar na área de:
-
-- DevOps
-- Infraestrutura
-- Cloud
-- Observabilidade
-- Kubernetes
-- Automação
-
-com foco em aprendizado contínuo e evolução técnica.
+🔗 https://github.com/danielviana2127/devops-cicd
 
 ---
 
-# 📈 GitHub Stats
+### Terraform Kubernetes Infrastructure
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielviana2127&show_icons=true&theme=dark)
+Projeto de Infraestrutura como Código utilizando Terraform.
+
+Recursos:
+
+* Providers
+* Variáveis
+* Outputs
+* Provisionamento automatizado
+
+🔗 https://github.com/danielviana2127/terraform-kubernetes-infrastructure
 
 ---
 
-# 🔥 Tecnologias Mais Utilizadas
+### GitOps Platform
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielviana2127&layout=compact&theme=dark)
+Plataforma GitOps utilizando ArgoCD para deploy automatizado em Kubernetes.
+
+Recursos:
+
+* GitOps
+* Continuous Delivery
+* Kubernetes
+* ArgoCD
+
+🔗 https://github.com/danielviana2127/argocd-gitops-platform
 
 ---
 
-# 🌎 Contato
+## 📚 Atualmente Estudando
 
-## GitHub
+* Platform Engineering
+* GitOps Avançado
+* Kubernetes Avançado
+* SRE
+* Observabilidade
+* Automação DevOps
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades nas áreas de:
+
+* DevOps
+* Cloud
+* Infraestrutura
+* SRE
+* Platform Engineering
+
+com foco na construção de ambientes automatizados, observáveis e escaláveis.
+
+---
+
+## 🌎 Contato
+
+GitHub:
 https://github.com/danielviana2127
 
-## LinkedIn
+LinkedIn:
 https://www.linkedin.com/in/daniel-viana-devops/
 
 ---
 
-# 🚀 Filosofia
+## 🚀 Filosofia
 
-> “Automatizar processos, reduzir falhas manuais e construir infraestrutura confiável.”
+Automatizar processos, reduzir falhas manuais e construir plataformas confiáveis através de boas práticas de DevOps.
